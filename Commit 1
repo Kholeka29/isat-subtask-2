@@ -1,0 +1,2 @@
+ Initialize project with basic structure
+git commit -m "Initialize converter program with menu skeleton and choice handling loop"
