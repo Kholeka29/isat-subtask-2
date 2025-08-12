@@ -1,0 +1,2 @@
+– Add decimal↔hexadecimal conversions
+git commit -m "Implement decimalToHexadecimal() and hexadecimalToDecimal() functions"
