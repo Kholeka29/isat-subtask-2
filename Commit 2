@@ -1,1 +1,2 @@
-
+Add decimal to binary conversion function
+git commit -m "Implement decimalToBinary() function for integer to binary string conversion"
